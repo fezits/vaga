@@ -1,20 +1,25 @@
 # Vaga de Desenvolvedor(a) PHP
 
+Níveis das vagas disponíveis:
+- Estágio
+- Junior
+- Pleno
+
 Descrição:
 
 O trabalho a ser realizado consiste no desenvolvimento de novas rotinas de software, bem como na sua manutenção. 
 O(a) Desenvolvedor(a) deverá colocar em prática os projetos que o Analista lhe destinar e, pensando na melhoria constante do sistema, também deverá propor melhorias.
 
 Por fim, o(a) desenvolvedor(a) realizará testes de software para garantir seu bom funcionamento. 
-Para esta vaga é necessária experiência comprovada. Espera-se que o profissional domine bem as linguagens PHP e JavaScript.
+Para esta vaga não é necessária experiência comprovada, porem é importante que o profissional já tenha tido contato com desenvolvimento em projetos pessoais ou de terceiros. Espera-se que o profissional domine bem as linguagens PHP e JavaScript.
 
 Requisitos
 
 - Ser criativo e proativo
 - Ter bom conhecimento sobre boas práticas de desenvolvimento php e devops
-- Conhecimento em zend framework / php | javascript / jquery
-- Programação oo e estruturada
-- Ter disponibilidade para trabalhar no centro do rio de janeiro
+- Conhecimento em PHP | javascript | jquery | Banco de Dados
+- Programação OO e Estruturada
+- Ter disponibilidade para trabalhar no centro do Rio de Janeiro
 
 Desejável
 
