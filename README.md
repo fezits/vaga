@@ -40,6 +40,6 @@ Benefícios
 - Oportunidade de eventos e cursos que deixem você mais próximo dos melhores do mercado
 - Os melhores happy hours
 
-Currículos: https://goo.gl/2W99m8
+Currículos: http://shosp.co/trabalhe-conosco
 
 Venha fazer parte de um time de ninjas
