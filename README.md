@@ -19,7 +19,7 @@ Requisitos
 - Ter bom conhecimento sobre boas práticas de desenvolvimento php e devops
 - Conhecimento em PHP | javascript | jquery | Banco de Dados
 - Programação OO e Estruturada
-- Ter disponibilidade para trabalhar no centro do Rio de Janeiro
+- Ter disponibilidade para trabalho remoto
 
 Desejável
 
@@ -37,6 +37,11 @@ Benefícios
 - Um ambiente de trabalho diferente e inovador com uma cultura que valoriza as pessoas e a entrega de resultados
 - Um time que tem os nossos valores em seu dna
 - Muitos desafios e aprendizados
+- Fornecemos notebook como equipamento para trabalho
+- Ajuda de custo para modalidade remota
+- Acesso ao app Wellzcare - saúde mental
+- Incentivo para certificações AWS
+- Bônus por indicação de outros profissionais
 - Oportunidade de eventos e cursos que deixem você mais próximo dos melhores do mercado
 - Os melhores happy hours
 
